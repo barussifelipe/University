@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "ML2"
+		},
+		{
+			"path": "Data Project"
 		}
 	],
 	"settings": {}
